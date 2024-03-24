@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Simple Calulator</string>
+    <string name="simple_calculator">Select Calculations: </string>
+    <string name="input1">Input 1</string>
+    <string name="input2">Input 2</string>
+    <string name="result">Result: %1$s</string>
+
+</resources>
